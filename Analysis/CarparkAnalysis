@@ -1,1 +1,8 @@
-This task requires the system to scan and verify the cars entering the parking lot and then check to see if there are parking spots available. It does this by counting the amount of cars that enter the parking lot and then reffering that to the amount of spots in the parking lot, it also counts the amount of cars that leaves to allow for dynamic updates to the amount.
+This task requires the system to scan and verify the cars
+entering the parking lot and then check to see if there are parking spots available.
+It does this by counting the amount of cars that enter the parking lot
+and then reffering that to the amount of spots in the parking lot,
+it also counts the amount of cars that leaves to allow for dynamic updates to the amount.
+
+Data
+
